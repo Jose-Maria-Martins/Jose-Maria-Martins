@@ -1,6 +1,6 @@
 - 👋 Hi, I’m José Maria Martins
-- 👀 I’m interested in Computer Science, Economy and Maths
-- 🌱 I’m currently learning German, React, Nodejs
+- 👀 Interested in Computer Science, Business and 
+- 🌱 I’m currently learning Nextjs, React Native, AI
 - 💞️ I’m looking to collaborate on interesting programming projects
 - 📫 You can reach me via email - jose.maria.martins@protonmail.com or via instagram - @jose.maria.martinss
 
