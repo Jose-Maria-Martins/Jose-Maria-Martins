@@ -6,7 +6,7 @@
 
 I build things at the intersection of technology and finance.
 
-Co-founder of [echoo](https://open.spotify.com/show/1UnNlUnbdcPq5VM05WhFXG), iOS engineering alumnus at [Aptoide](https://aptoide.com), and head of asset management at ISCTE's Trading & Investment Club — running a fundamental stock-picking approach across concentrated positions.
+Co-founded of [echoo](https://open.spotify.com/show/1UnNlUnbdcPq5VM05WhFXG) - built a podcast for the biggest Doctor in Portugal, iOS engineering alumnus at [Aptoide](https://aptoide.com), and head of asset management at ISCTE's Trading & Investment Club — running a fundamental stock-picking approach across concentrated positions.
 
 Currently finishing my CS degree while preparing for a summer at Cloudflare and an MSc in Finance ast Novasbe starting September.
 
@@ -44,4 +44,4 @@ Currently finishing my CS degree while preparing for a summer at Cloudflare and 
 
 [jose.maria.martins@protonmail.com](mailto:jose.maria.martins@protonmail.com) · [Instagram](https://instagram.com/jose.maria.martinss)
 
-📄 [Download CV](./cv.pdf)
+📄 [Download CV](./CV José Martins.pdf)
