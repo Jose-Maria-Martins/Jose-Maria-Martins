@@ -1,4 +1,47 @@
-<p>I'm José Martins. Currently, interested in AI, AudioBooks and Cryptography.</p>
-<p>An EveryDay Learner, currently reading *Why Nations Fail* and taking *Computer Science* at ISCTE. Incoming Summer Product Manager Intern @ Cloudflare and MSc in Finance at Novasbe.</p>
-Always looking to collaborate in interesting projects. Reach me via <jose.maria.martins@protonmail.com> or via [Instagram](https://instagram.com/jose.maria.martinss "@jose.maria.martinss")
-(@jose.maria.martinss) 
+# José Martins
+
+**CS Engineering @ ISCTE** · Incoming PM Intern @ Cloudflare · Incoming MSc Finance @ Nova SBE
+
+---
+
+I build things at the intersection of technology and finance.
+
+Co-founder of [echoo](https://open.spotify.com/show/1UnNlUnbdcPq5VM05WhFXG), iOS engineering alumnus at [Aptoide](https://aptoide.com), and head of asset management at ISCTE's Trading & Investment Club — running a fundamental stock-picking approach across concentrated positions.
+
+Currently finishing my CS degree while preparing for a summer at Cloudflare and an MSc in Finance ast Novasbe starting September.
+
+---
+
+### What I'm interested in
+
+- Artificial Intelligence & LLMs
+- Cryptography & Security
+- Markets, Quant Finance & Fintech
+- Startups & Venture Capital
+
+---
+
+### Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+---
+
+### Now
+
+- 📖 Reading *Why Nations Fail* — Acemoglu & Robinson
+- 🔧 Building with Cloudflare Workers, AI, and D1
+- 📊 Running stock research at ISCTE's Trading Club
+
+---
+
+### Get in touch
+
+[jose.maria.martins@protonmail.com](mailto:jose.maria.martins@protonmail.com) · [Instagram](https://instagram.com/jose.maria.martinss)
+
+📄 [Download CV](./cv.pdf)
