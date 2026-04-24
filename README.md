@@ -6,7 +6,7 @@
 
 I build things at the intersection of technology and finance.
 
-Co-founded of [echoo](https://open.spotify.com/show/1UnNlUnbdcPq5VM05WhFXG) - launched a podcast for Dr. Manuel Pinto Coelho powered by AI, iOS engineering alumnus at [Aptoide](https://aptoide.com), and head of Asset Management at ISCTE's Trading & Investment Club.
+Co-founded [echoo](https://open.spotify.com/show/1UnNlUnbdcPq5VM05WhFXG) - launched a podcast for Dr. Manuel Pinto Coelho powered by AI, iOS engineering alumnus at [Aptoide](https://aptoide.com), and head of Asset Management at ISCTE's Trading & Investment Club.
 
 Currently finishing my CS degree while preparing for a summer at Cloudflare and an MSc in Finance ast Novasbe starting September.
 
