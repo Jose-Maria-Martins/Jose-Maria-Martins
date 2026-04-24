@@ -6,7 +6,7 @@
 
 I build things at the intersection of technology and finance.
 
-Co-founded of [echoo](https://open.spotify.com/show/1UnNlUnbdcPq5VM05WhFXG) - built a podcast for the biggest Doctor in Portugal, iOS engineering alumnus at [Aptoide](https://aptoide.com), and head of asset management at ISCTE's Trading & Investment Club — running a fundamental stock-picking approach across concentrated positions.
+Co-founded of [echoo](https://open.spotify.com/show/1UnNlUnbdcPq5VM05WhFXG) - launched a podcast for Dr. Manuel Pinto Coelho powered by AI, iOS engineering alumnus at [Aptoide](https://aptoide.com), and head of Asset Management at ISCTE's Trading & Investment Club.
 
 Currently finishing my CS degree while preparing for a summer at Cloudflare and an MSc in Finance ast Novasbe starting September.
 
@@ -29,6 +29,13 @@ Currently finishing my CS degree while preparing for a summer at Cloudflare and 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+---
+
+### Exploring
+
+- **LLMs & Neural Networks** — how models are built, fine-tuned, and deployed at scale
+- **Distributed Systems** — consistency, fault tolerance, and the tradeoffs that make infrastructure interesting
 
 ---
 
