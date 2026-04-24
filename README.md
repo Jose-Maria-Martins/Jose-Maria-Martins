@@ -44,4 +44,4 @@ Currently finishing my CS degree while preparing for a summer at Cloudflare and 
 
 [jose.maria.martins@protonmail.com](mailto:jose.maria.martins@protonmail.com) · [Instagram](https://instagram.com/jose.maria.martinss)
 
-📄 [Download CV](./CV José Martins.pdf)
+📄 [Download CV](./jose-martins-cv.pdf)
