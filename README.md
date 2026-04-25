@@ -4,7 +4,7 @@
 
 ---
 
-I build things at the intersection of technology and finance.
+I like to build things.
 
 Co-founded [echoo](https://open.spotify.com/show/1UnNlUnbdcPq5VM05WhFXG) - launched a podcast for Dr. Manuel Pinto Coelho powered by AI, iOS engineering alumnus at [Aptoide](https://aptoide.com), and head of Asset Management at ISCTE's Trading & Investment Club.
 
