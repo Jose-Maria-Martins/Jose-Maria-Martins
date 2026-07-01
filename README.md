@@ -1,6 +1,6 @@
 # José Martins
 
-**CS Engineering @ ISCTE** · Incoming PM Intern @ Cloudflare · Incoming MSc Finance @ Nova SBE
+**PM Intern @ Cloudflare** · **CS Engineering @ ISCTE** · Incoming MSc Finance @ Nova SBE
 
 ---
 
