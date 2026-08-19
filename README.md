@@ -53,4 +53,4 @@ Preparing for an MSc in Finance at Novasbe starting September.
 
 [jose.maria.martins@protonmail.com](mailto:jose.maria.martins@protonmail.com) · [Instagram](https://instagram.com/jose.maria.martinss)
 
-📄 [Download CV](./jose-martins-cv.pdf)
+📄 [Download CV](./cv_Jose_Martins.pdf)
