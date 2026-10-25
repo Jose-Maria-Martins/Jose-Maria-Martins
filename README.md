@@ -50,7 +50,7 @@ Marathoner when I'm not at a keyboard (3:51 in my first race).
 
 ---
 
-### Now (Oct 2026)
+### At the moment
 
 - 📖 Reading *Why Nations Fail* — Acemoglu & Robinson
 - 🔧 Building Pons on Cloudflare Workers
