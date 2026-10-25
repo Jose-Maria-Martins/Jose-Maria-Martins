@@ -6,7 +6,7 @@
 
 I like to build things.
 
-Doing an MSc in Finance at Nova SBE after a CS bachelor at ISCTE. Spent the summer as a Product Manager Intern @ Cloudflare, on the Zero Trust team, shipping DLP features from PRD to launch.
+Spent the summer as a Product Manager Intern @ Cloudflare, on the Zero Trust team, where I shipped DLP [Test Scan](https://developers.cloudflare.com/cloudflare-one/data-loss-prevention/test-scan/) and [Passive Detection](https://developers.cloudflare.com/cloudflare-one/data-loss-prevention/passive-detection/).
 
 Before that, iOS engineering intern at [Aptoide](https://aptoide.com), where I built CloudGaming for iOS from scratch, and co-founder of [echoo](https://open.spotify.com/show/1UnNlUnbdcPq5VM05WhFXG): an AI-produced podcast with Dr. Manuel Pinto Coelho that hit 15k plays in its first month.
 
@@ -17,7 +17,7 @@ Marathoner when I'm not at a keyboard.
 ### Projects
 
 - **[Pons](https://github.com/Jose-Maria-Martins/pons)**: connect your Garmin to Claude or ChatGPT and use AI as your coach. Every run, every night, every heartbeat, one question away.
-- **[headsuptexashva](https://github.com/Jose-Maria-Martins/headsuptexashva)**: a C++ poker engine with Python bots (CFR included) and reproducible benchmarks, built to study decisions under uncertainty. Made on exchange at Hogeschool van Amsterdam.
+- **[Heads-Up Poker Bot](https://github.com/Jose-Maria-Martins/headsuptexashva)**: a C++ poker engine with Python bots (CFR included) and reproducible benchmarks, built to study decisions under uncertainty. Made on exchange at Hogeschool van Amsterdam.
 
 ---
 
