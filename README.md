@@ -19,14 +19,6 @@ Marathoner when I'm not at a keyboard (3:51 in my first race).
 - **[Pons](https://github.com/Jose-Maria-Martins/pons)**: connect your Garmin to Claude or ChatGPT and use AI as your coach. Every run, every night, every heartbeat, one question away.
 - **[Heads-Up Poker Bot](https://github.com/Jose-Maria-Martins/headsuptexashva)**: a C++ poker engine with Python bots (CFR included) and reproducible benchmarks, built to study decisions under uncertainty. Made on exchange at Hogeschool van Amsterdam.
 
----
-
-### What I'm interested in
-
-- Artificial Intelligence & LLMs
-- Cryptography & Security
-- Markets, Quant Finance & Fintech
-- Startups & Venture Capital
 
 ---
 
