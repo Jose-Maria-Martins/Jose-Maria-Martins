@@ -1,16 +1,23 @@
 # José Martins
 
-**PM Intern @ Cloudflare** · **CS Engineering @ ISCTE** · Incoming MSc Finance @ Nova SBE
+**MSc Finance @ Nova SBE** · **CS Engineering @ ISCTE** · ex-PM Intern @ Cloudflare
 
 ---
 
 I like to build things.
 
-Product Management Summer Intern @ Cloudflare, on Zero-Trust Team. Finished my CS bachelor degree at ISCTE this year.
+Spent the summer as a Product Manager Intern @ Cloudflare, on the Zero Trust team, where I shipped DLP [Test Scan](https://developers.cloudflare.com/cloudflare-one/data-loss-prevention/test-scan/) and [Passive Detection](https://developers.cloudflare.com/cloudflare-one/data-loss-prevention/passive-detection/).
 
-Co-founded [echoo](https://open.spotify.com/show/1UnNlUnbdcPq5VM05WhFXG) - launched a podcast for Dr. Manuel Pinto Coelho powered by AI, iOS engineering alumnus at [Aptoide](https://aptoide.com), and head of Asset Management at ISCTE's Trading & Investment Club.
+Before that, iOS engineering intern at [Aptoide](https://aptoide.com), where I built CloudGaming for iOS from scratch, and co-founder of [echoo](https://open.spotify.com/show/1UnNlUnbdcPq5VM05WhFXG): an AI-produced podcast with Dr. Manuel Pinto Coelho that hit 15k plays in its first month.
 
-Preparing for an MSc in Finance at Novasbe starting September.
+Marathoner when I'm not at a keyboard (3:51 in my first race).
+
+---
+
+### Projects
+
+- **[Pons](https://github.com/Jose-Maria-Martins/pons)**: connect your Garmin to Claude or ChatGPT and use AI as your coach. Every run, every night, every heartbeat, one question away.
+- **[Heads-Up Poker Bot](https://github.com/Jose-Maria-Martins/headsuptexashva)**: a C++ poker engine with Python bots (CFR included) and reproducible benchmarks, built to study decisions under uncertainty. Made on exchange at Hogeschool van Amsterdam.
 
 ---
 
@@ -28,6 +35,7 @@ Preparing for an MSc in Finance at Novasbe starting September.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
@@ -38,19 +46,20 @@ Preparing for an MSc in Finance at Novasbe starting September.
 
 - **LLMs & Neural Networks** — how models are built, fine-tuned, and deployed at scale
 - **Distributed Systems** — consistency, fault tolerance, and the tradeoffs that make infrastructure interesting
+- **Quant Strategies** — turning signals into portfolios, from factor models to risk-adjusted allocation
 
 ---
 
-### Now
+### At the moment
 
 - 📖 Reading *Why Nations Fail* — Acemoglu & Robinson
-- 🔧 Building with Cloudflare Workers, AI, and D1
-- 📊 Running stock research at ISCTE's Trading Club
+- 🔧 Building Pons on Cloudflare Workers
+- 📊 Building quant models at the Portfolio Management Club
 
 ---
 
 ### Get in touch
 
-[jose.maria.martins@protonmail.com](mailto:jose.maria.martins@protonmail.com) · [Instagram](https://instagram.com/jose.maria.martinss)
+[jose.maria.martins@protonmail.com](mailto:jose.maria.martins@protonmail.com) · [X](https://x.com/JoseMartiiins) · [LinkedIn](https://www.linkedin.com/in/josemsfmartins/)
 
 📄 [Download CV](./cv_Jose_Martins.pdf)
